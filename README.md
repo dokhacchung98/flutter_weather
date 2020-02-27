@@ -22,4 +22,4 @@
   - Thanks assets by https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather&hl=vi
 
  # Screen shot
- <img src="https://github.com/khacchungory/flutter_weather/blob/master/myapp.webm">
+ <img src="https://github.com/khacchungory/flutter_weather/blob/master/screenshot.gif" width="360" height="640">
